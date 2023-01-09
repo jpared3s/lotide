@@ -6,7 +6,5 @@ const assertEqual = function(actual, expected) {
   }
 };
 
-
-
 console.log(assertEqual("Raptors","Raptors"));
 console.log(assertEqual(12, 12));
