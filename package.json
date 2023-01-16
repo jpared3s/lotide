@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@jpared3s/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "utility functions",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/jpared3s/lotide.git"
   },
-  "author": "",
+  "author": "Julian Paredes",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jpared3s/lotide/issues"
