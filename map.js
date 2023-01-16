@@ -31,3 +31,4 @@ const map = function(array, callback) {
 const results1 = map(players, word => word[0]);
 assertArraysEqual(results1, ['b', 's', 'f', 'o']);
 
+module.exports = map
